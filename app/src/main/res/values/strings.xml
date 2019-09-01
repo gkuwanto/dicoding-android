@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bandung Ceria</string>
+    <string name="place_name">Nama Tempat</string>
+    <string name="place_summary">Ringkasan tentang tempat</string>
+    <string name="profile">Profile</string>
+    <string name="credits">Credits</string>
+    <string name="creator_name">Garry Kuwanto</string>
+    <string name="creator_email">gkuwanto@gmail.com</string>
+    <string name="credits_link">https://www.nativeindonesia.com/tempat-wisata-di-bandung/</string>
+    <string name="credits_title">Sumber Data</string>
+    <string name="title_activity_details">Details</string>
+    <string name="placeholder">GAMBARTEMPAT</string>
+</resources>
